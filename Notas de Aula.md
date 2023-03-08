@@ -109,7 +109,9 @@ DDL: Data definition language (linguagem de definição de dados)
 
 DML: Data Manipulation Language (linguagem de manipulação dos dados)
 
-![Untitled](Notas%20de%20Aula%20-%20PostgreSQL%20Comandos%20DML%20e%20DDL%200c39e8b3fdf546aeafc16c54ba5f0c41/Untitled.png)
+<p align="center">
+  <img src="esquema.png" />
+</p>
 
 ## Inclusão de dados:
 
@@ -149,7 +151,7 @@ schemas > tables
 
 clique com o botão direito na tabela em que se deseja inserir dados e selecione “import/Export Data” e abrirá a seguinte tela, no qual você irá selecionar o arquivo desejado:
 
-![Untitled](Notas%20de%20Aula%20-%20PostgreSQL%20Comandos%20DML%20e%20DDL%200c39e8b3fdf546aeafc16c54ba5f0c41/Untitled%201.png)
+![Untitled](import_export.png)
 
 ## Alteração de dados
 
