@@ -6,7 +6,11 @@ O curso faz parte do Desenvolve 2023 do Grupo Boticário - Trilha de dados.
 # Link do Curso:
 [Alura - PostgreSQL: Comandos DML e DDL](https://cursos.alura.com.br/course/pgsql-comandos-dml-ddl)
 
+# Arquivo SQL:
+[Arquivo .sql](https://github.com/RSAmanda/Alura_PostrgreSQL_DML_DDL/blob/59d9ab42d44023347c93be65f0a2d8455901833a/Alura_postgresql_dml_ddl.sql)
+
 # Conteúdo do Curso por Aula:
+[Notas de Aula](https://github.com/RSAmanda/Alura_PostrgreSQL_DML_DDL/blob/6ebd3a8a40d7a9d4b211bb0de8407d8779a18f72/Notas%20de%20Aula.md)
 
 ## 1. Modelagem de Dados:
 
